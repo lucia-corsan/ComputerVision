@@ -8,6 +8,8 @@
 - 2D Image Filtering.
 - Edge and Corner Detection: corner response calculation, thresholding, and non-maximum suppression.
 - Image Subsampling: Naive and anti-aliasing downsampling techniques.
+- Hough Transform.
+- Homography and RANSAC.
 
 ### Repository Contents 
 [tbd]
