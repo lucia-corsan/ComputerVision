@@ -10,6 +10,9 @@
 - Image Subsampling: Naive and anti-aliasing downsampling techniques.
 - Hough Transform.
 - Homography and RANSAC.
+- Filter banks.
+- K-Means Clustering for feature extraction.
+- Bag-of-Words Representation.
 
 ### Repository Contents 
 [tbd]
