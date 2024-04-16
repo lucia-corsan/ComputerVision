@@ -15,4 +15,9 @@
 - Bag-of-Words Representation.
 
 ### Repository Contents 
-[tbd]
+- `HW1`: Implementation of a **2D filtering**, **edge and corner detection** and **image sumsampling** functions for images.
+- `HW2`:
+  First, implementation of **Hough transform to find straight lanes in a road**.
+  Secondly, creating a pipeline for estimating the homography, and **using the estimated homography in an AR (augmented reality) application**.
+  
+- `Visual Recognition System`: Implementation of a **simple texture recognition system** using the bag-of-words (BoW) approach. 
