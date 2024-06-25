@@ -1,4 +1,4 @@
-# COMP425 Homeworks
+# COMP425 Implementations
 ### Overview
 - **Subject**: COMP425/COMP6341 Computer Vision.
 - **Session**: Winter 2024.
